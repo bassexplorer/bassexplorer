@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi, I'm Ben(ce)!
+A passionate Front-End developer from Hungary!
 
-<!--
-**bassexplorer/bassexplorer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Couple of facts about me: 🔽
+* 🏠Currently living in Aalborg/Denmark
+* 🏫 Studying Multimedia Design at UCN
+* ⚙️ Constantly learning and explore technologies.
+* ✔️ Passionat problem solver
+* 🎵 Plays Drums & Produce music 🎧 in spare time.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stuff I love to use: 🔽
+▶️ Angular & Vue 
+▶️ Material Design  
+▶️ Bootstrap  
+▶️ HTML & SCss  
+▶️ Javascript & Typescript  
+▶️ PostgresSQL & NestJS
+  
+### 📫 You can reach me here: 🔽
+
+  [![LinkedIn](https://img.shields.io/badge/Mark%20Bence%20Kiss-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mark-bence-kiss/) 
+  [![LinkedIn](https://img.shields.io/badge/Portfolio%20site-red?style=for-the-badge)](https://markbencekiss.com/)
+  ###
