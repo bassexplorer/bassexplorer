@@ -1,7 +1,7 @@
 # Hi, I'm Ben(ce)!
-A passionate Front-End developer from Hungary!
+### A passionate Front-End developer from Hungary!
 
-### Couple of facts about me: 🔽
+#### Couple of facts about me: 🔽
 * 🏠Currently living in Aalborg/Denmark
 * 🏫 Studying Multimedia Design at UCN
 * ⚙️ Constantly learning and explore technologies.
@@ -9,7 +9,7 @@ A passionate Front-End developer from Hungary!
 * 🎵 Plays Drums & Produce music 🎧 in spare time.
 
 
-### Stuff I love to use: 🔽
+#### Stuff I love to use: 🔽
 ▶️ Angular & Vue 
 ▶️ Material Design  
 ▶️ Bootstrap  
@@ -17,7 +17,7 @@ A passionate Front-End developer from Hungary!
 ▶️ Javascript & Typescript  
 ▶️ PostgresSQL & NestJS
   
-### 📫 You can reach me here: 🔽
+#### 📫 You can reach me here: 🔽
 
   [![LinkedIn](https://img.shields.io/badge/Mark%20Bence%20Kiss-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mark-bence-kiss/) 
   [![LinkedIn](https://img.shields.io/badge/Portfolio%20site-red?style=for-the-badge)](https://markbencekiss.com/)
