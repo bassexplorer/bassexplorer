@@ -2,7 +2,7 @@
 ### A passionate Front-End developer from Hungary!
 
 #### Couple of facts about me: 🔽
-* 🏠Currently living in Aalborg/Denmark
+* 🏠 Currently living in Aalborg/Denmark
 * 🏫 Studying Multimedia Design at UCN
 * ⚙️ Constantly learning and explore technologies.
 * ✔️ Passionat problem solver
