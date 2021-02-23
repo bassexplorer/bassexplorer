@@ -12,8 +12,8 @@
 #### Stuff I love to use: 🔽
 ▶️ Angular & Vue 
 ▶️ Material Design  
-▶️ Bootstrap  
-▶️ HTML & SCss  
+▶️ Bootstrap Tailwind css
+▶️ HTML & Scss  
 ▶️ Javascript & Typescript  
 ▶️ PostgresSQL & NestJS
   
