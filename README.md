@@ -3,17 +3,19 @@
 
 #### Couple of facts about me: 🔽
 * 🏠 Currently living in Aalborg/Denmark
-* 🏫 Studying Multimedia Design at UCN
+* 🏫 Studying Web Development at UCN
 * ⚙️ Constantly learning and explore technologies.
 * ✔️ Passionat problem solver
 * 🎵 Plays Drums & Produce music 🎧 in spare time.
+* 🐈 I have a cat called Cashew.
 
 
 #### Stuff I love to use: 🔽
 ▶️ Angular & Vue 
+▶️ Flutter & Dart 
 ▶️ Material Design  
-▶️ Bootstrap Tailwind css
-▶️ HTML & Scss  
+▶️ Bootstrap & Tailwind css
+▶️ HTML & (S)css  
 ▶️ Javascript & Typescript  
 ▶️ PostgresSQL & NestJS
   
